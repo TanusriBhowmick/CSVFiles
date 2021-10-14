@@ -1,4 +1,4 @@
-Campaign_ID,Campaign Name,Audience,Age,Geography,Reach,Impressions,Frequency,Clicks,Unique_Clicks,Unique_Link_Clicks,Click-Through_Rate,Unique_Click-Through_Rate,Amount_Spent,Cost_Per_Click,Cost_per_Result
+CampaignID,CampaignName,Audience,Age,Geography,Reach,Impressions,Frequency,Clicks,UniqueClicks,UniqueLinkClicks,ClickThroughRate,UniqueClickThroughRate,AmountSpent,CostPerClick,CostPerResult
 Campaign 1,SHU_6 (Educators and Principals),Educators and Principals,25-34,"Group 1 (Australia, Canada, United Kingdom, Ghana, Nigeria, Pakistan, United States)",11387,23283,2.044700097,487,406,180,2.09165486,3.56546939,1092.24,2.24279009,6.07
 Campaign 1,SHU_6 (Educators and Principals),Educators and Principals,35-44,"Group 1 (Australia, Canada, United Kingdom, Ghana, Nigeria, Pakistan, United States)",8761,15683,1.790092455,484,376,154,3.08614423,4.29174752,835.46,1.72616538,5.43
 Campaign 1,SHU_6 (Educators and Principals),Educators and Principals,45-54,"Group 1 (Australia, Canada, United Kingdom, Ghana, Nigeria, Pakistan, United States)",2867,6283,2.191489362,198,145,65,3.15136081,5.05755145,319.38,1.61303773,4.91
